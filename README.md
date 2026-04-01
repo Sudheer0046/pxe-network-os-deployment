@@ -26,19 +26,8 @@ To deploy Windows OS to client systems over LAN using PXE boot.
 - LAN Network  
 
 ---
-
-## 📸 Screenshots
-
-### PXE Boot
-![PXE](pxe-boot.png)
-
-### Serva Setup
-![Serva](serva.png)
-
----
-
 ## 📘 Detailed Documentation
-👉 See `documentation.md`
+👉 See `Attached File`
 
 ---
 
